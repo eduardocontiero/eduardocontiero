@@ -2,14 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocontiero/)
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-five-virid-96.vercel.app/api/top-langs/?username=eduardocontiero&show_icons=true&theme=radical&layout=compact" />
-</div>
- 
-  &nbsp;
- &nbsp;
-
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -22,5 +14,14 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </div><br/>
+ &nbsp;
+ &nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-five-virid-96.vercel.app/api/top-langs/?username=eduardocontiero&show_icons=true&theme=radical&layout=compact" />
+</div>
+ 
+
 
 

@@ -18,7 +18,7 @@
  &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats-zeta-nine.vercel.app?user=eduardocontiero&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-five-virid-96.vercel.app/api/top-langs/?username=eduardocontiero&show_icons=true&theme=radical&layout=compact" />
 </div>
  
